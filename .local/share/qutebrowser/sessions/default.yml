@@ -1,0 +1,143 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAUAAAAJQAABOsAAAMLAAAAGQAAACoAAATmAAADBgAAAAAAAAAABQAAAAAZAAAA
+    KgAABOYAAAMG
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:44:10'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: melange vim color scheme, by savq | vimcolorschemes
+      url: https://vimcolorschemes.com/savq/melange
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:44:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: surf | suckless.org software that sucks less
+      url: http://surf.suckless.org/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:44:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Terminal specific · morhetz/gruvbox Wiki · GitHub
+      url: https://github.com/morhetz/gruvbox/wiki/Terminal-specific
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:44:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: voidrice/init.vim at master · LukeSmithxyz/voidrice · GitHub
+      url: https://github.com/LukeSmithxyz/voidrice/blob/master/.config/nvim/init.vim
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:44:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'How to comment in Vim''s config files: ".vimrc"? - Stack Overflow'
+      url: https://stackoverflow.com/questions/2032747/how-to-comment-in-vims-config-files-vimrc
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:44:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Fonts - ArchWiki
+      url: https://wiki.archlinux.org/index.php/Fonts#Monospaced
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:44:05'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Envy Code R preview #7 (scalable coding font) » DamienG'
+      url: https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:44:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Anonymous Pro - Mark Simonson
+      url: https://www.marksimonson.com/fonts/view/anonymous-pro
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:44:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'GitHub - microsoft/cascadia-code: This is a fun, new monospaced font
+        that includes programming ligatures and is designed to enhance the modern
+        look and feel of the Windows Terminal.'
+      url: https://github.com/microsoft/cascadia-code
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:44:07'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Spell Check in Nvim - jdhao's blog
+      url: https://jdhao.github.io/2019/04/29/nvim_spell_check/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:44:08'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: How to fix 'Make error - glib.h no such file or directory'
+      url: https://www.xmodulo.com/fix-make-error-glib-h.html
+      zoom: 1.0
+  - active: true
+    history:
+    - last_visited: '2021-02-28T15:44:08'
+      pinned: false
+      title: dotfiles/.zshrc at master · SwapneelM/dotfiles · GitHub
+      url: https://github.com/SwapneelM/dotfiles/blob/master/.zshrc
+    - last_visited: '2021-02-28T15:44:25'
+      pinned: false
+      title: detect when running in st at DuckDuckGo
+      url: https://duckduckgo.com/?q=detect+when+running+in+st&ia=web
+    - last_visited: '2021-02-28T15:45:11'
+      pinned: false
+      title: detect when running in terminal emulator at DuckDuckGo
+      url: https://duckduckgo.com/?q=detect+when+running+in+terminal+emulator&ia=web&iai=r1-1&page=1&sexp=%7B%22cdrexp%22%3A%22b%22%2C%22artexp%22%3A%22b%22%2C%22prodexp%22%3A%22b%22%2C%22prdsdexp%22%3A%22c%22%2C%22biaexp%22%3A%22b%22%2C%22msvrtexp%22%3A%22b%22%7D
+    - active: true
+      last_visited: '2021-02-28T15:45:11'
+      original-url: https://duckduckgo.com/?q=detect+when+running+in+terminal+emulator&ia=web&iai=r1-1&page=1&sexp=%7B%22cdrexp%22%3A%22b%22%2C%22artexp%22%3A%22b%22%2C%22prodexp%22%3A%22b%22%2C%22prdsdexp%22%3A%22c%22%2C%22biaexp%22%3A%22b%22%2C%22msvrtexp%22%3A%22b%22%7D
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 640
+      title: shell script - Detect if running in a virtual terminal? - Unix & Linux
+        Stack Exchange
+      url: https://unix.stackexchange.com/questions/96463/detect-if-running-in-a-virtual-terminal
+      zoom: 1.0

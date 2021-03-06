@@ -1,0 +1,6 @@
+2021/02/28-15:44:08.130 3a5b5e Reusing MANIFEST /home/adam/.local/share/qutebrowser/webengine/Local Storage/leveldb/MANIFEST-000001
+2021/02/28-15:44:08.130 3a5b5e Recovering log #31
+2021/02/28-15:44:08.131 3a5b5e Reusing old log /home/adam/.local/share/qutebrowser/webengine/Local Storage/leveldb/000031.log 
+2021/02/28-15:44:20.883 3a6bab Level-0 table #35: started
+2021/02/28-15:44:20.927 3a6bab Level-0 table #35: 157530 bytes OK
+2021/02/28-15:44:20.955 3a6bab Delete type=0 #31

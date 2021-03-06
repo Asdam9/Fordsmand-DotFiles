@@ -1,0 +1,31 @@
+# ---------------------------------------------------
+# Auto generated
+# ---------------------------------------------------
+
+HISTFILE=~/.local/histfile
+HISTSIZE=1000
+SAVEHIST=1000
+setopt beep
+bindkey -v
+zstyle :compinstall filename '/home/adam/.config/zsh/zshrc'
+autoload -Uz compinit
+compinit -d ~/.local/zcompdump
+
+# ---------------------------------------------------
+# Sources
+# ---------------------------------------------------
+
+source ~/.config/zsh/zshexport
+source ~/.config/zsh/zshalias
+
+# ---------------------------------------------------
+# Auto spawn xorg on initial load
+# ---------------------------------------------------
+
+[ "$(tty)" = "/dev/tty1" ] && (pgrep dwm || startx)
+
+# ---------------------------------------------------
+# RICING!!!
+# ---------------------------------------------------
+
+tty > /dev/null && (clear ; neofetch)

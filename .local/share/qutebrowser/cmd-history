@@ -1,0 +1,37 @@
+:tab-close
+:set colors.webpage.darkmode.enabled true
+:reload
+:set colors.webpage.darkmode.enabled
+:reload
+:open -t turning .tar.gz to .tar.gz.zst
+:open bash read
+:open youtube.com
+:tab-close 
+:open nvim color scheme
+:open install gruvbox nvim
+:open nvim run shell command
+:open -t lukesmith dotfiles
+/com
+:edit-url
+:edit-url 
+:edit-url nvim
+/compi
+:open nvim colorschemes
+:open -t vimrc comments
+:open -t goyo
+:open arch wiki
+:open -t groff numbered headings not showing
+:open -t groff fonts
+:open nvim spellcheck
+:open gitub
+:open github
+:adblock-update 
+:open suckless.org
+:open -t glib.h file
+:open -t gdk.h
+:open gdk.h lib not found
+:open groff refer
+:open neofetch running in nvim
+:open detect when running in st
+:open groff code blocks
+:open lowdown or groffdown

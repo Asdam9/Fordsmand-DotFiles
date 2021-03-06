@@ -1,0 +1,11 @@
+# Common environmental variables
+export EDITOR='nvim'
+export PATH=$PATH:~/.cache
+export BROWSER='qutebrowser'
+export PS1='[%F{10}%n%f@%F{12}%m%f %~]$ '
+export REFER='/home/adam/.local/share/groff/bib.refer'
+
+# Fixes
+export LESSHISTFILE="-"
+export XAUTHORITY='/home/adam/.local/Xauthority'
+export PATH=$PATH:~/.config/coc/extensions/coc-clangd-data/install/11.0.0/clangd_11.0.0/bin

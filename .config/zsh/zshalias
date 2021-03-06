@@ -1,0 +1,21 @@
+# Comfort
+alias fs='ranger'
+alias pacman='doas pacman'
+
+# General
+alias ls='ls --color=auto'
+alias grep='grep --color=auto'
+alias cp='cp -v'
+alias mkdir='mkdir -v'
+alias mv='mv -v'
+alias rm='rm -v'
+
+# Enforce installed text editor
+alias nvim=$EDITOR
+alias vim=$EDITOR
+alias vi=$EDITOR
+alias nano=$EDITOR
+
+# Useful
+alias tremc='pgrep -x transmission-da > /dev/null || (transmission-daemon && (notify-send "Starting Transmission Daemon" && sleep 3 && tremc) || notify-send "Couldnt start Transmission daemon" )'
+alias sudo='printf "This computer uses doas instead of sudo.\n" ; echo Try: doas'

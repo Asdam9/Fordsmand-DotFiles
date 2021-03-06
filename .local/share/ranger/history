@@ -1,0 +1,45 @@
+search pac
+search doa
+search hos
+search ssh
+shell doas nvim %s
+shell mkdir BG
+shell doas rm %s
+shell mv %s .local/Xauthority
+shell cp %s ~/.Xauthority
+shell ln -s ~/.
+rename sss
+shell mkdir nvim
+shell touch nvim.init
+rename init.vim
+shell mkdir site
+shell mkdir autoload
+shell ln -s %s ~/.cache/
+shell nvim check.c
+search groff
+search ms
+shell touch huh.ms
+deletel
+shell mkdir misc
+shell mkdir ctest
+shell touch idk.c
+shell ./%s
+shell rm %s
+shell 
+
+shell cp %s Documen
+shell mv %s .config/
+shell mkdir zsh
+shell mv %s zsh/
+shell mv %s zshrc
+shell cp %s ~/.c
+shell mkdir groff
+shell touch bib.refer
+shell touch something.ms
+shell mkdir testDoc.ms
+rename test
+shell touch doc.ms
+shell mkdir markdown
+shell touch test.md
+shell nvim %s
+delete

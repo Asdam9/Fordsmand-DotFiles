@@ -1,0 +1,183 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAUAAAAJQAABOsAAAMLAAAAGQAAACoAAATmAAADBgAAAAAAAAAABQAAAAAZAAAA
+    KgAABOYAAAMG
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:52:02'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: melange vim color scheme, by savq | vimcolorschemes
+      url: https://vimcolorschemes.com/savq/melange
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:51:54'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: surf | suckless.org software that sucks less
+      url: http://surf.suckless.org/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:51:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Terminal specific · morhetz/gruvbox Wiki · GitHub
+      url: https://github.com/morhetz/gruvbox/wiki/Terminal-specific
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:51:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: voidrice/init.vim at master · LukeSmithxyz/voidrice · GitHub
+      url: https://github.com/LukeSmithxyz/voidrice/blob/master/.config/nvim/init.vim
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:51:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'How to comment in Vim''s config files: ".vimrc"? - Stack Overflow'
+      url: https://stackoverflow.com/questions/2032747/how-to-comment-in-vims-config-files-vimrc
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:51:57'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Fonts - ArchWiki
+      url: https://wiki.archlinux.org/index.php/Fonts#Monospaced
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:51:54'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'Envy Code R preview #7 (scalable coding font) » DamienG'
+      url: https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:51:58'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Anonymous Pro - Mark Simonson
+      url: https://www.marksimonson.com/fonts/view/anonymous-pro
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:51:58'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: 'GitHub - microsoft/cascadia-code: This is a fun, new monospaced font
+        that includes programming ligatures and is designed to enhance the modern
+        look and feel of the Windows Terminal.'
+      url: https://github.com/microsoft/cascadia-code
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:51:54'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Spell Check in Nvim - jdhao's blog
+      url: https://jdhao.github.io/2019/04/29/nvim_spell_check/
+      zoom: 1.0
+  - history:
+    - active: true
+      last_visited: '2021-02-28T15:51:54'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: How to fix 'Make error - glib.h no such file or directory'
+      url: https://www.xmodulo.com/fix-make-error-glib-h.html
+      zoom: 1.0
+  - active: true
+    history:
+    - last_visited: '2021-02-28T15:51:57'
+      pinned: false
+      title: shell script - Detect if running in a virtual terminal? - Unix & Linux
+        Stack Exchange
+      url: https://unix.stackexchange.com/questions/96463/detect-if-running-in-a-virtual-terminal
+    - last_visited: '2021-02-28T15:52:11'
+      pinned: false
+      title: groff code blocks at DuckDuckGo
+      url: https://duckduckgo.com/?q=groff+code+blocks&ia=web
+    - last_visited: '2021-02-28T15:52:26'
+      pinned: false
+      title: groff code at DuckDuckGo
+      url: https://duckduckgo.com/?q=groff+code&ia=web
+    - last_visited: '2021-02-28T15:52:50'
+      pinned: false
+      title: groff insert code at DuckDuckGo
+      url: https://duckduckgo.com/?q=groff+insert+code&ia=web
+    - last_visited: '2021-02-28T15:53:30'
+      pinned: false
+      title: groff embed code block at DuckDuckGo
+      url: https://duckduckgo.com/?q=groff+embed+code+block&ia=web&iai=r1-0&page=1&sexp=%7B%22cdrexp%22%3A%22b%22%2C%22artexp%22%3A%22b%22%2C%22prodexp%22%3A%22b%22%2C%22prdsdexp%22%3A%22c%22%2C%22biaexp%22%3A%22b%22%2C%22msvrtexp%22%3A%22b%22%7D
+    - last_visited: '2021-02-28T15:53:50'
+      pinned: false
+      title: groff example code at DuckDuckGo
+      url: https://duckduckgo.com/?q=groff+example+code&ia=web
+    - last_visited: '2021-02-28T15:54:18'
+      pinned: false
+      title: groff eqn at DuckDuckGo
+      url: https://duckduckgo.com/?q=groff+eqn&ia=web
+    - last_visited: '2021-02-28T16:18:41'
+      pinned: false
+      title: groff linebrak at DuckDuckGo
+      url: https://duckduckgo.com/?q=groff+linebrak&ia=web
+    - last_visited: '2021-02-28T16:19:26'
+      pinned: false
+      title: groff linebreak at DuckDuckGo
+      url: https://duckduckgo.com/?q=groff+linebreak&ia=web&iai=r1-5&page=1&sexp=%7B%22cdrexp%22%3A%22b%22%2C%22artexp%22%3A%22b%22%2C%22prodexp%22%3A%22b%22%2C%22prdsdexp%22%3A%22c%22%2C%22biaexp%22%3A%22b%22%2C%22msvrtexp%22%3A%22b%22%7D
+    - last_visited: '2021-02-28T16:19:27'
+      original-url: https://duckduckgo.com/?q=groff+linebreak&ia=web&iai=r1-5&page=1&sexp=%7B%22cdrexp%22%3A%22b%22%2C%22artexp%22%3A%22b%22%2C%22prodexp%22%3A%22b%22%2C%22prdsdexp%22%3A%22c%22%2C%22biaexp%22%3A%22b%22%2C%22msvrtexp%22%3A%22b%22%7D
+      pinned: false
+      title: groff(7) - Linux manual page
+      url: https://www.man7.org/linux/man-pages/man7/groff.7.html
+    - last_visited: '2021-02-28T16:30:28'
+      pinned: false
+      title: lowdown or groffdown at DuckDuckGo
+      url: https://duckduckgo.com/?q=lowdown+or+groffdown&ia=definition
+    - last_visited: '2021-02-28T16:32:25'
+      pinned: false
+      title: lowdown or "groffdown" at DuckDuckGo
+      url: https://duckduckgo.com/?q=lowdown+or+%22groffdown%22&ia=web&iai=r1-0&page=1&sexp=%7B%22cdrexp%22%3A%22b%22%2C%22artexp%22%3A%22b%22%2C%22prodexp%22%3A%22b%22%2C%22prdsdexp%22%3A%22c%22%2C%22biaexp%22%3A%22b%22%2C%22msvrtexp%22%3A%22b%22%7D
+    - last_visited: '2021-02-28T16:32:41'
+      pinned: false
+      title: groff low down at DuckDuckGo
+      url: https://duckduckgo.com/?q=groff+low+down&ia=web
+    - active: true
+      last_visited: '2021-02-28T16:32:51'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: troff low down at DuckDuckGo
+      url: https://duckduckgo.com/?q=troff+low+down&ia=web
+      zoom: 1.0

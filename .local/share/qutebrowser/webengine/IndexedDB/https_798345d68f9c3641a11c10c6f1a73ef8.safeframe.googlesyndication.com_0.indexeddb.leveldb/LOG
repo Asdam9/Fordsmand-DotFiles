@@ -1,0 +1,5 @@
+2021/02/28-12:37:44.585 c049d Reusing MANIFEST /home/adam/.local/share/qutebrowser/webengine/IndexedDB/https_798345d68f9c3641a11c10c6f1a73ef8.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/28-12:37:48.107 c16c1 Level-0 table #5: started
+2021/02/28-12:37:48.210 c16c1 Level-0 table #5: 439 bytes OK
+2021/02/28-12:37:48.261 c16c1 Delete type=0 #3
+2021/02/28-12:37:48.262 c16c1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
